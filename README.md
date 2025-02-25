@@ -8,3 +8,7 @@
 
 >vedoucí projektů
 >
+pdo
+rozepsat markdown
+user groupy
+4 nejčastěší use casy
