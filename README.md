@@ -63,3 +63,24 @@
    - Počtem výskytů v každém dokumentu.
    - Odkazy na konkrétní stránky/oddíly.
 3. Soubor je stažen do zařízení uživatele.
+
+
+
+### osnova návodu
+
+# přidávání souborů
+
+# kopírování souborů
+
+# vyjmutí souborů
+
+# smazání souborů
+
+# přejmenování souborů
+
+# vyhledávání v jednom dokumentu
+
+# vyhledávání ve všech dokumentech
+
+# export výsledků vyhledávání do excel tabulky
+
