@@ -18,7 +18,6 @@
 
 7. **Vyhledávání ve všech**
 
+8. **Export výsledků vyhledávání do excel tabulky**
 
-
-# Export výsledků vyhledávání do excel tabulky
 
