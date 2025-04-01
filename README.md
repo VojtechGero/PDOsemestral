@@ -4,20 +4,20 @@
 
 ### Osnova návodu
 
-1. **Přidávání souborů**
+### Přidávání souborů
 
-2. **Kopírování souborů**
+### Kopírování souborů
 
-3. **Vyjmutí souborů**
+### Vyjmutí souborů
 
-4. **Smazání souborů**
+### Smazání souborů
 
-5. **Přejmenování souborů**
+### Přejmenování souborů
 
-6. **Vyhledávání v jednom dokumentu**
+### Vyhledávání v jednom dokumentu
 
-7. **Vyhledávání ve všech**
+### Vyhledávání ve všech dokumentech
 
-8. **Export výsledků vyhledávání do excel tabulky**
+### Export výsledků vyhledávání do excel tabulky
 
 
