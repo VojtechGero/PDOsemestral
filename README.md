@@ -46,14 +46,14 @@ Tlačítko pro globální vyhledávání otevře samostatné vyhledávací okno.
 
 ---
 
+### Export výsledků vyhledávání do Excel tabulky
+
+V globálním vyhledávacím okně lze kliknutím na tlačítko **„Export“** uložit výsledky do XLSX souboru. Exportovaný soubor obsahuje seznam všech dokumentů, kde se hledaný výraz vyskytuje, spolu s počtem výskytů v každém dokumentu. Tento soubor lze použít pro další zpracování nebo archivaci.
+
+---
+
 # Administrátorský návod
 
 Návod jak zprovoznit backend API
 
 
-
----
-
-### Export výsledků vyhledávání do Excel tabulky
-
-V globálním vyhledávacím okně lze kliknutím na tlačítko **„Export“** uložit výsledky do XLSX souboru. Exportovaný soubor obsahuje seznam všech dokumentů, kde se hledaný výraz vyskytuje, spolu s počtem výskytů v každém dokumentu. Tento soubor lze použít pro další zpracování nebo archivaci.
