@@ -57,6 +57,7 @@ Tlačítko pro globální vyhledávání otevře samostatné vyhledávací okno.
 <img width="541" alt="Vyhledávání" src="https://github.com/user-attachments/assets/3a51f0f0-d664-4f48-9f35-db899daf1457" />
 
 V globálním vyhledávacím okně lze kliknutím na tlačítko **„Export“** uložit výsledky do XLSX souboru. Exportovaný soubor obsahuje seznam všech dokumentů, kde se hledaný výraz vyskytuje, spolu s počtem výskytů v každém dokumentu. Tento soubor lze použít pro další zpracování nebo archivaci.
+
 <img width="730" alt="Export" src="https://github.com/user-attachments/assets/05f60301-93be-46a6-a491-4d593699ff7b" />
 
 ---
