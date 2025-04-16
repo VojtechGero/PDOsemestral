@@ -62,8 +62,27 @@ V globálním vyhledávacím okně lze kliknutím na tlačítko **„Export“**
 
 ---
 
-# Administrátorský návod
+## Administrátorský návod: Zprovoznění backendového API
 
-Návod jak zprovoznit backend API
+Pro správné spuštění API s podporou OCR funkcionality je nutné mít k dispozici službu **Azure Document Intelligence**. Tato služba poskytuje OCR analýzu dokumentů a je nezbytnou součástí systému.
+
+### Postup zprovoznění
+
+1. **Získání přístupových údajů**
+   - V Azure portálu si vytvořte (nebo použijte existující) službu Azure Document Intelligence.
+   - Získané přihlašovací údaje obsahují:
+     - `URL` služby
+     - `KEY` pro autentizaci
+
+2. **Nastavení konfiguračního souboru**
+   - V repozitáři se **nenachází** soubor `appsettings.json`, protože je uveden v `.gitignore`.
+   - Místo toho je k dispozici šablona `appsettings.json.template`, která obsahuje kompletní strukturu očekávaného konfiguračního souboru.
+   - Pro nastavení postupujte následovně:
+     1. Zkopírujte soubor `appsettings.json.template`.
+     2. Přejmenujte kopii na `appsettings.json`.
+     3. Vyplňte hodnoty `URL` a `KEY` ve vhodné sekci souboru.
+
+3. **Příklad struktury souboru `appsettings.json`:**
+  <img width="380" alt="image" src="https://github.com/user-attachments/assets/53b322d9-4048-4be7-a342-5230c8c5fe82" />
 
 
