@@ -3,6 +3,11 @@
 Tento návod popisuje základní funkce aplikace pro správu PDF dokumentů a práci s rozpoznaným textem pomocí technologie OCR. Aplikace umožňuje správu souborů, vyhledávání v dokumentech a export výsledků.
 
 ---
+### TODO
+
+upravit obrázky,
+přidat do nich kolečka a čísla aby se dalo referovat na specifická tlačítka výrazněji
+---
 
 ### Přidávání souborů
 <img width="1280" alt="dms" src="https://github.com/user-attachments/assets/c9cb39f4-56c4-49d8-88ef-3f52385cd1b5" />
