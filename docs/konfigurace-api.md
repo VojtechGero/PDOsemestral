@@ -31,4 +31,9 @@ Před spuštěním aplikace je nutné nakonfigurovat backend API tak, aby mělo 
     "Url": "https://<vaše-služba>.cognitiveservices.azure.com/",
     "Key": "<váš-api-klíč>"
   }
-}
+} 
+```
+
+---
+
+[⬅️ Zpět na hlavní stránku manuálu](../README.md)
