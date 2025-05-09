@@ -2,6 +2,7 @@
 
 ## Uživatelský návod
 
+- [Přidávání souborů](./docs/pridavani.md)
 - [Kopírování souborů](./docs/kopirovani.md)
 - [Vyjmutí souborů](./docs/vyjmuti.md)
 - [Smazání souborů](./docs/smazani.md)
