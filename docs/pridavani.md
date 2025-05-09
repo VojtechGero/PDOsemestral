@@ -1,5 +1,18 @@
 # Přidávání nových dokumentů
 
-<img width="1280" alt="dms" src="https://github.com/user-attachments/assets/c9cb39f4-56c4-49d8-88ef-3f52385cd1b5" />
+Nové soubory lze do systému přidat pomocí tlačítka **„Nahrát soubor“** umístěného v uživatelském rozhraní.
 
-Nové soubory lze do systému přidat pomocí tlačítka **„Nahrát soubor“** umístěného v uživatelském rozhraní modulu pro správu dokumentů (DMS). Po kliknutí se otevře dialog pro výběr souboru z počítače. Vybraný soubor je následně zkopírován do zvolené složky v rámci aplikace a ihned se zobrazí v seznamu.
+> 🛈 Pro správné fungování této funkce musí být spuštěno backendové API. Pokud nahrávání selže nebo se dokumenty nezobrazují, kontaktujte svého administrátora.
+
+## Postup:
+
+1. Klikněte na tlačítko **„Nahrát soubor“** (zvýrazněno na obrázku níže).
+2. Vyberte jeden nebo více souborů ve formátu **.pdf** z počítače v otevřeném dialogovém okně.
+3. Potvrďte výběr.
+4. Vybrané soubory budou zkopírovány do aktuální složky a ihned se zobrazí v seznamu dokumentů.
+
+![Nahrání dokumentu](https://github.com/user-attachments/assets/50b0b174-e06a-4530-b5f6-d8c91428774c)
+
+---
+
+[⬅️ Zpět na hlavní stránku manuálu](../README.md)
