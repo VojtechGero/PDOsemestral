@@ -1,4 +1,5 @@
 # Přidávání nových dokumentů
+*Klíčová slova: `nahrávání`, `upload`, `vytvoření`, `přidání`, `nový dokument`, `create`, `add file`*
 
 Nové soubory lze do systému přidat pomocí tlačítka **„Nahrát soubor“** umístěného v uživatelském rozhraní.
 
