@@ -1,4 +1,5 @@
 ### Vyjmutí souborů
+*Klíčová slova: `vyjmutí`, `cut`, `přesun`, `přesunutí`, `přemístění`, `vložit`, `paste`, `kontextové menu`,`ctrl+x`, `ctrl+v`,`vložit`*
 
 > 🛈 Pro správné fungování této funkce musí být spuštěno backendové API. Pokud se položky nezobrazují nebo není možné provést operaci, kontaktujte svého administrátora.
 
