@@ -1,4 +1,5 @@
 ### Vyhledávání ve všech dokumentech
+*Klíčová slova: `globální vyhledávání`, `search all`, `hledání`, `fulltext`, `OCR`, `výsledky`, `search across files`*
 
 > 🛈 Pro správné fungování této funkce musí být spuštěno backendové API. Pokud se okno neotevře nebo nejsou dostupné výsledky, kontaktujte svého administrátora.
 
