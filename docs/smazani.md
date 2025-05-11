@@ -1,4 +1,5 @@
 ### Smazání souborů
+*Klíčová slova: `smazání`, `odstranit`, `delete`, `mazání`, `remove`, `delete file`, `delete folder`*
 
 > 🛈 Pro správné fungování této funkce musí být spuštěno backendové API. Pokud se položky nezobrazují nebo není možné provést operaci, kontaktujte svého administrátora.
 
