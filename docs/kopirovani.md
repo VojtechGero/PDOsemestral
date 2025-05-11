@@ -1,4 +1,5 @@
 ### Kopírování souborů
+<!-- Keywords: Kopie, Kopírovat, Duplikace, Ctrl+C, Vložit, Paste -->
 
 > 🛈 Pro správné fungování této funkce musí být spuštěno backendové API. Pokud se položky nezobrazují nebo není možné provést operaci, kontaktujte svého administrátora.
 
