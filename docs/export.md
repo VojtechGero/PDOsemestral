@@ -1,4 +1,5 @@
 ### Export výsledků vyhledávání do Excel tabulky
+*Klíčová slova: `export`, `excel`, `xlsx`, `uložit výsledky`, `výsledky hledání`, `save`, `export results`*
 
 > 🛈 Pro správné fungování této funkce musí být spuštěno backendové API. Pokud se export nespustí nebo se soubor nevytvoří, kontaktujte svého administrátora.
 
