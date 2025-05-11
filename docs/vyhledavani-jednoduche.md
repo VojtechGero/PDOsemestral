@@ -1,4 +1,5 @@
 ### Vyhledávání v jednom dokumentu
+*Klíčová slova: `vyhledávání`, `hledat`, `fulltext`, `hledání`, `search`, `zvýraznění`, `search in document`*
 
 > 🛈 Pro správné fungování této funkce musí být spuštěno backendové API. Pokud se text nevyhledává správně nebo chybí OCR přepis, kontaktujte svého administrátora.
 
