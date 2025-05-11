@@ -1,4 +1,5 @@
 ### Přejmenování souborů
+*Klíčová slova: `přejmenování`, `rename`, `změna názvu`, `úprava názvu`, `název souboru`, `edit name`*
 
 > 🛈 Pro správné fungování této funkce musí být spuštěno backendové API. Pokud se položky nezobrazují nebo není možné provést operaci, kontaktujte svého administrátora.
 
