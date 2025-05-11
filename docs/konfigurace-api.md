@@ -1,4 +1,5 @@
 ### Konfigurace backend API
+*Klíčová slova: `konfigurace`, `nastavení`, `backend`, `api`, `azure`, `document intelligence`, `appsettings.json`, `key`*
 
 Před spuštěním aplikace je nutné nakonfigurovat backend API tak, aby mělo přístup ke službě Azure Document Intelligence a mohlo správně obsluhovat OCR požadavky.
 
